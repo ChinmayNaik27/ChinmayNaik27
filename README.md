@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChinmayNaik27
 - 👀 I’m interested in Data-Engineering and python coding 
-- 🌱 I’m currently learning Data-Engineering
+- 🌱 I’m currently learning Big-Data
 - 📫 How to reach me : through gmail
 chinmaynaik27@gmail.com
 <!---
